@@ -17,5 +17,5 @@ Here are the language agnostic steps that are followed in every language used:
 8. If the user's guess is too low, print "Your guess is too low."
 9. If the user's guess is too high, print "Your guess is too high."
 10. If the user's guess is incorrect, print "Take a guess again: "
-11. Repeat from step 5 to 10 until the user guessefs the number correctly.
+11. Repeat from step 5 to 10 until the user guesses the number correctly.
 ```
