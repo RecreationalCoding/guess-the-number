@@ -1,4 +1,7 @@
 # Guess The Number Game in Java
+## Youtube Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nToytjpHB3o/0.jpg)](https://www.youtube.com/watch?v=nToytjpHB3o)
+
 ## java and javac version
 ```console
 foo@bar:~$ java -version
