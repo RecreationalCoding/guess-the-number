@@ -21,3 +21,4 @@ Here are the language agnostic steps that are followed in every language used:
 ```
 # Languages
 ## [Java](Java)
+## [Python](Python)
