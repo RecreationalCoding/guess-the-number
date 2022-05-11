@@ -1,6 +1,6 @@
 # Guess The Number Game in Java
 ## Youtube Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-E4_td3Iqa0/0.jpg)](https://www.youtube.com/watch?v=-E4_td3Iqa0)
+[![Youtube Video](https://img.youtube.com/vi/-E4_td3Iqa0/0.jpg)](https://www.youtube.com/watch?v=-E4_td3Iqa0)
 
 ## python version
 ```console
