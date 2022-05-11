@@ -1,4 +1,4 @@
-# Guess The Number Game in Java
+# Guess The Number Game in Python
 ## Youtube Video
 [![Youtube Video](https://img.youtube.com/vi/-E4_td3Iqa0/0.jpg)](https://www.youtube.com/watch?v=-E4_td3Iqa0)
 
