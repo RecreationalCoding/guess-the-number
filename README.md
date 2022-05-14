@@ -20,5 +20,6 @@ Here are the language agnostic steps that are followed in every language used:
 11. Repeat from step 5 to 10 until the user guesses the number correctly.
 ```
 # Languages
+## [C#](C#)
 ## [Java](Java)
 ## [Python](Python)
