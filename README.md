@@ -23,3 +23,4 @@ Here are the language agnostic steps that are followed in every language used:
 ## [C#](C%23)
 ## [Java](Java)
 ## [Python](Python)
+## [Ruby](Ruby)
